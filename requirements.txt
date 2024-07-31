@@ -1,0 +1,13 @@
+streamlit
+mediapipe
+opencv-python-headless
+pickle5
+numpy==1.26.2
+streamlit-webrtc
+matplotlib
+twilio
+scikit-learn==1.2.0
+pydub
+gtts
+av
+pygame==2.1.2
